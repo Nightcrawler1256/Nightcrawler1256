@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nightcrawler1256
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me - with my github account
 
