@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nightcrawler1256/nightcrawler1256/output/snake.svg" alt="Snake animation" />
+
 
 ###
