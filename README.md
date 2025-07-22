@@ -50,9 +50,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nightcrawler1256/count.svg?"  />
-</div>
 
 ###
 
