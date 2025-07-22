@@ -67,7 +67,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nightcrawler1256&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightcrawler1256&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightcrawler1256&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"  height="20%" />
 </p>
 
 ---
