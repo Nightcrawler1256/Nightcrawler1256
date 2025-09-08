@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 - 💻 Full Stack Developer (MERN Stack)
 - ☕ Strong background in **Java** – OOPs, DSA, Pattern Programming
